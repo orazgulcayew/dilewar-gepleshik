@@ -1,3 +1,3 @@
 class AppStrings {
-  static const appName = 'Dilewar';
+  static const appName = "Dilewar - Gepleşik";
 }

@@ -1,5 +1,5 @@
-import 'package:dilewar/components/Card.dart';
-import 'package:dilewar/components/toolbar.dart';
+import 'package:dilewar/styles/app_colors.dart';
+import 'package:dilewar/widgets/card.dart';
 import 'package:dilewar/config/app_Strings.dart';
 import 'package:dilewar/data.dart';
 import 'package:flutter/material.dart';
@@ -10,9 +10,10 @@ class HomeView extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-        appBar: Toolbar(
-          title: AppStrings.appName,
-          actions: [Icon(Icons.more_vert_rounded)],
+        appBar: AppBar(
+          title: const Text(AppStrings.appName),
+          actions: const [Icon(Icons.more_vert_rounded)],
+          backgroundColor: AppColors.primary,
         ),
         body: Padding(
           padding: const EdgeInsets.all(10),
