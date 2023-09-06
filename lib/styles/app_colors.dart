@@ -10,4 +10,12 @@ class AppColors {
   static const black = Color(0xff000000);
   static const white = Color(0xffffffff);
   // static final fieldColor = const Color(0xFFD9D9D9).withOpacity(0.6);
+
+  static List<Color?> categoryColors = [
+    Colors.red[100],
+    Colors.green[100],
+    Colors.blue[100],
+    Colors.orange[100],
+    Colors.purple[100],
+  ];
 }

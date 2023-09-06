@@ -1,36 +1,36 @@
-import 'package:dilewar/styles/app_colors.dart';
-import 'package:dilewar/styles/app_texts.dart';
 import 'package:flutter/material.dart';
 
-class CardView extends StatelessWidget {
+class CategoryCard extends StatelessWidget {
   final String title;
   final IconData icon;
-  const CardView({super.key, required this.title, required this.icon});
+  final Color color;
+  final Function() onTap;
+  const CategoryCard(
+      {super.key,
+      required this.title,
+      required this.icon,
+      required this.color,
+      required this.onTap});
 
   @override
   Widget build(BuildContext context) {
-    return Container(
-      decoration: BoxDecoration(
-          color: AppColors.primary,
-          boxShadow: [
-            BoxShadow(
-              color: Colors.grey.withOpacity(0.5), // Shadow color
-              spreadRadius: 3, // How far the shadow spreads
-              blurRadius: 5, // How blurry the shadow is
-              offset: const Offset(0, 0), // Offset of the shadow
+    return Material(
+      color: color,
+      borderRadius: BorderRadius.circular(20),
+      elevation: 1,
+      child: InkWell(
+        borderRadius: BorderRadius.circular(20),
+        onTap: onTap,
+        child: Column(
+          mainAxisAlignment: MainAxisAlignment.spaceEvenly,
+          children: [
+            Icon(
+              icon,
+              size: 32,
             ),
+            Text(title),
           ],
-          borderRadius: const BorderRadius.all(Radius.circular(12))),
-      child: Column(
-        mainAxisAlignment: MainAxisAlignment.spaceEvenly,
-        children: [
-          Icon(
-            icon,
-            size: 32,
-            color: AppColors.white,
-          ),
-          Text(title, style: AppText.subtitle1),
-        ],
+        ),
       ),
     );
   }

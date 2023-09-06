@@ -1,3 +1,4 @@
+import 'package:dilewar/config/app_strings.dart';
 import 'package:dilewar/screen/home_view.dart';
 import 'package:flutter/material.dart';
 
@@ -12,9 +13,10 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-        title: 'Flutter Demo',
+        title: AppStrings.appName,
+        debugShowCheckedModeBanner: false,
         theme: ThemeData(
-          colorScheme: ColorScheme.fromSeed(seedColor: Colors.deepPurple),
+          colorSchemeSeed: Colors.green,
           useMaterial3: true,
         ),
         home: const HomeView());
