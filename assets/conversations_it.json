@@ -1,0 +1,2560 @@
+[
+  {
+    "category": {
+      "turkmen": "UMUMY",
+      "english": "GENERAL",
+      "italian": "GENERALE",
+      "id": 0
+    },
+    "items": [
+      {
+        "turkmen": "Hawa",
+        "english": "Yes",
+        "italian": "Sì",
+        "id": 0
+      },
+      {
+        "turkmen": "Ýok",
+        "english": "No",
+        "italian": "No",
+        "id": 1
+      },
+      {
+        "turkmen": "Sag bol, minnetdar!",
+        "english": "Thank you!",
+        "italian": "Grazie!",
+        "id": 2
+      },
+      {
+        "turkmen": "Baş üstüne!",
+        "english": "Please!",
+        "italian": "Si prega di.",
+        "id": 3
+      },
+      {
+        "turkmen": "Zyýany ýok.",
+        "english": "Never mind.",
+        "italian": "Nessun problema",
+        "id": 4
+      },
+      {
+        "turkmen": "Bagyşlaň!",
+        "english": "Excuse me!",
+        "italian": "Mi scusi.",
+        "id": 5
+      },
+      {
+        "turkmen": "Men bilmeýärin.",
+        "english": "I don't know.",
+        "italian": "Non so.",
+        "id": 6
+      },
+      {
+        "turkmen": "Siz maňa düşünýärsiňizmi?",
+        "english": "Can you understand me?",
+        "italian": "Mi capisci?",
+        "id": 7
+      },
+      {
+        "turkmen": "Düşünmedim.",
+        "english": "I didn't understand.",
+        "italian": "Non ho capito",
+        "id": 8
+      },
+      {
+        "turkmen": "Düşündim.",
+        "english": "I understood.",
+        "italian": "Ho capito.",
+        "id": 9
+      },
+      {
+        "turkmen": "Bagyşlaň?",
+        "english": "Sorry?",
+        "italian": "Il perdono?",
+        "id": 10
+      },
+      {
+        "turkmen": "Näme?",
+        "english": "What?",
+        "italian": "Cosa?",
+        "id": 11
+      },
+      {
+        "turkmen": "Haçan?",
+        "english": "When?",
+        "italian": "Quando?",
+        "id": 12
+      },
+      {
+        "turkmen": "Haýsy?",
+        "english": "Which one?",
+        "italian": "Quale?",
+        "id": 13
+      },
+      {
+        "turkmen": "Nirede?",
+        "english": "Where?",
+        "italian": "Dove?",
+        "id": 14
+      },
+      {
+        "turkmen": "Näme üçin?",
+        "english": "Why?",
+        "italian": "Perchè?",
+        "id": 15
+      },
+      {
+        "turkmen": "Kim?",
+        "english": "Who?",
+        "italian": "Chi?",
+        "id": 16
+      },
+      {
+        "turkmen": "Näçe sany?",
+        "english": "How many?",
+        "italian": "Quanti?",
+        "id": 17
+      },
+      {
+        "turkmen": "Bolýar.",
+        "english": "Alright.",
+        "italian": "Va bene.",
+        "id": 18
+      }
+    ]
+  },
+  {
+    "category": {
+      "turkmen": "SALAMLAŞYK",
+      "english": "GREETING",
+      "italian": "SALUTO",
+      "id": 1
+    },
+    "items": [
+      {
+        "turkmen": "Salam",
+        "english": "Hello, Hi",
+        "italian": "Ciao, Salve",
+        "id": 0
+      },
+      {
+        "turkmen": "Seni görenime şat.",
+        "english": "I am glad to see you.",
+        "italian": "Piacere di conoscerla.",
+        "id": 1
+      },
+      {
+        "turkmen": "Siz bilen tanyşanyma örän şat.",
+        "english": "Nice to meet you.",
+        "italian": "Bello incontrare anche voi.",
+        "id": 2
+      },
+      {
+        "turkmen": "Siziň adyňyz näme?",
+        "english": "What is your name?",
+        "italian": "come ti chiami?",
+        "id": 3
+      },
+      {
+        "turkmen": "Meniň adym ...",
+        "english": "My name is…",
+        "italian": "Mi chiamo …",
+        "id": 4
+      },
+      {
+        "turkmen": "Gowumy ýagdaýlaryň?",
+        "english": "How are you?",
+        "italian": "Come stai?",
+        "id": 5
+      },
+      {
+        "turkmen": "Meniň ýagdaýlarym gowy.",
+        "english": "I am fine.",
+        "italian": "Io sto bene.",
+        "id": 6
+      },
+      {
+        "turkmen": "Meniň ýagdaýlarym gowy däl.",
+        "english": "I am not good",
+        "italian": "Io non sto bene.",
+        "id": 7
+      },
+      {
+        "turkmen": "A siz?",
+        "english": "What about you?",
+        "italian": "E Lei?",
+        "id": 8
+      },
+      {
+        "turkmen": "Siz näçe ýaşyňyzda?",
+        "english": "How old are you?",
+        "italian": "Quanti anni hai?",
+        "id": 9
+      },
+      {
+        "turkmen": "Men ... ýaşymda.",
+        "english": "I am …",
+        "italian": "Io ho …",
+        "id": 10
+      },
+      {
+        "turkmen": "Siz nireden?",
+        "english": "Where are you from?",
+        "italian": "Di dove sei?",
+        "id": 11
+      },
+      {
+        "turkmen": "Men ...-dan.",
+        "english": "I am from …",
+        "italian": "Io sono di …",
+        "id": 12
+      },
+      {
+        "turkmen": "Siz nirede ýaşaýarsyňyz?",
+        "english": "Where do you live?",
+        "italian": "Dove vivi?",
+        "id": 13
+      },
+      {
+        "turkmen": "Men ...-da ýaşaýaryn.",
+        "english": "I live in …",
+        "italian": "Io vivo in …",
+        "id": 14
+      },
+      {
+        "turkmen": "Siz nirä barýarsyňyz?",
+        "english": "Where are you going?",
+        "italian": "Dove stai andando?",
+        "id": 15
+      },
+      {
+        "turkmen": "Sag boluň!",
+        "english": "Good bye!",
+        "italian": "Arrivederci!",
+        "id": 16
+      },
+      {
+        "turkmen": "Ýene-de görüşýänçäk.",
+        "english": "See you again.",
+        "italian": "Ci vediamo più tardi.",
+        "id": 17
+      },
+      {
+        "turkmen": "Ertir görşeris.",
+        "english": "See you tomorrow.",
+        "italian": "Ci vediamo domani.",
+        "id": 18
+      },
+      {
+        "turkmen": "Üstünlik arzuw edýärin.",
+        "english": "Good luck.",
+        "italian": "Buona fortuna!",
+        "id": 19
+      },
+      {
+        "turkmen": "Özüňize serediň (seresap boluň)",
+        "english": "Be careful.",
+        "italian": "Prendersi cura.",
+        "id": 20
+      },
+      {
+        "turkmen": "Gutly bolsun! Gutlaýaryn!",
+        "english": "Congratulations!",
+        "italian": "Complimenti!, Comgratulazione!",
+        "id": 21
+      },
+      {
+        "turkmen": "Ertiriňiz haýyrly bolsun!",
+        "english": "Good morning!",
+        "italian": "Buongiorno!",
+        "id": 22
+      },
+      {
+        "turkmen": "Gündüziňiz haýyrly bolsun!",
+        "english": "Good afternoon!",
+        "italian": "Buon pomeriggio!",
+        "id": 23
+      },
+      {
+        "turkmen": "Agşamyňyz haýyrly bolsun!",
+        "english": "Good evening!",
+        "italian": "Buona sera!",
+        "id": 24
+      },
+      {
+        "turkmen": "Gijäňiz rahat bolsun!",
+        "english": "Good night!",
+        "italian": "Buonanotte!",
+        "id": 25
+      },
+      {
+        "turkmen": "Doglan günüňiz gutly bolsun!",
+        "english": "Happy birthday to you!",
+        "italian": "Buon Compleanno!",
+        "id": 26
+      },
+      {
+        "turkmen": "Täze ýylyňyz bilen!",
+        "english": "Happy New Year!",
+        "italian": "Buon Capodanno!",
+        "id": 27
+      },
+      {
+        "turkmen": "Hoş geldiňiz!",
+        "english": "Welcome!",
+        "italian": "Benvenuto!",
+        "id": 28
+      }
+    ]
+  },
+  {
+    "category": {
+      "turkmen": "KÄR",
+      "english": "PROFESSION",
+      "italian": "PROFESSIONE",
+      "id": 2
+    },
+    "items": [
+      {
+        "turkmen": "Näme kär bilen meşgullanýarsyňyz?",
+        "english": "What do you do?",
+        "italian": "Che lavira fa?",
+        "id": 0
+      },
+      {
+        "turkmen": "Men talyp.",
+        "english": "I am a student.",
+        "italian": "Io sono una studentessa/uno studente.",
+        "id": 1
+      },
+      {
+        "turkmen": "Men mugallym.",
+        "english": "I am a teacher.",
+        "italian": "Io sono una insegnante/un insegnante.",
+        "id": 2
+      },
+      {
+        "turkmen": "Men lukman.",
+        "english": "I am a doctor.",
+        "italian": "Io sono una dottoressa/un dottore.",
+        "id": 3
+      },
+      {
+        "turkmen": "Men inžener.",
+        "english": "I am an engineer.",
+        "italian": "Io sono un ingengere.",
+        "id": 4
+      },
+      {
+        "turkmen": "Men işgär.",
+        "english": "I am a worker.",
+        "italian": "Io sono un operaio.",
+        "id": 5
+      },
+      {
+        "turkmen": "Men sazanda.",
+        "english": "I am a musician.",
+        "italian": "Io sono una musicista.",
+        "id": 6
+      },
+      {
+        "turkmen": "Men aýdymçy.",
+        "english": "I am a singer.",
+        "italian": "Io sono un cantante.",
+        "id": 7
+      },
+      {
+        "turkmen": "Men ýazyjy.",
+        "english": "I am a writer.",
+        "italian": "Io sono uno scrittore.",
+        "id": 8
+      },
+      {
+        "turkmen": "Men suratkeş.",
+        "english": "I am a drawer.",
+        "italian": "Io sono un pittore.",
+        "id": 9
+      },
+      {
+        "turkmen": "Men arheolog.",
+        "english": "I am an archeologist.",
+        "italian": "Io sono un archeologo.",
+        "id": 10
+      },
+      {
+        "turkmen": "Men sungat işgäri.",
+        "english": "I am a worker of art.",
+        "italian": "Io sono una artista.",
+        "id": 11
+      },
+      {
+        "turkmen": "Men žurnalist.",
+        "english": "I am a journalist.",
+        "italian": "Io sono una giornalista.",
+        "id": 12
+      },
+      {
+        "turkmen": "Siz  okaýarsyňyzmy?",
+        "english": "Do you study?",
+        "italian": "Tu studi?",
+        "id": 13
+      },
+      {
+        "turkmen": "Men okaýaryn.",
+        "english": "I study.",
+        "italian": "Io studio.",
+        "id": 14
+      },
+      {
+        "turkmen": "Siz  nirede okaýarsyňyz?",
+        "english": "Where do you study?",
+        "italian": "Dove studi?",
+        "id": 15
+      },
+      {
+        "turkmen": "Men mekdepde okaýaryn.",
+        "english": "I study at school.",
+        "italian": "Io studio a scuola.",
+        "id": 16
+      },
+      {
+        "turkmen": "Men uniwersitetde okaýaryn.",
+        "english": "I study at the University.",
+        "italian": "Io studio all'Università.",
+        "id": 17
+      },
+      {
+        "turkmen": "Siz nirede işleýärsiňiz?",
+        "english": "Where do you work?",
+        "italian": "Dove tu lavori?",
+        "id": 18
+      },
+      {
+        "turkmen": "Men mekdepde işelýärin.",
+        "english": "I work at school.",
+        "italian": "Io lavoro a scuola.",
+        "id": 19
+      },
+      {
+        "turkmen": "Men uniwersitetde işleýärin.",
+        "english": "I work at the University.",
+        "italian": "Io lavoro all'università.",
+        "id": 20
+      },
+      {
+        "turkmen": "Firmada.",
+        "english": "In a firm.",
+        "italian": "In una ditta.",
+        "id": 21
+      },
+      {
+        "turkmen": "Kompaniýada.",
+        "english": "In a company.",
+        "italian": "in una società.",
+        "id": 22
+      },
+      {
+        "turkmen": "Bankda.",
+        "english": "On a bank.",
+        "italian": "in una banca.",
+        "id": 23
+      },
+      {
+        "turkmen": "Fabrikde.",
+        "english": "In a fabric.",
+        "italian": "in una fabbrica.",
+        "id": 24
+      },
+      {
+        "turkmen": "Men işlemeýärin.",
+        "english": "I don't work.",
+        "italian": "Io non lavoro.",
+        "id": 25
+      },
+      {
+        "turkmen": "Men pensioner.",
+        "english": "I am a pensioner.",
+        "italian": "Io sono in pensione.",
+        "id": 26
+      },
+      {
+        "turkmen": "Men öý hojalykçy.",
+        "english": "I am a housekeeper.",
+        "italian": "Io sono una casalinga.",
+        "id": 27
+      }
+    ]
+  },
+  {
+    "category": {
+      "turkmen": "AEREPORTDA",
+      "english": "IN AIRPORT",
+      "italian": "ALL'AEREPORTO",
+      "id": 3
+    },
+    "items": [
+      {
+        "turkmen": "Siziň pasportyňyzy barlap bilerinmi?",
+        "english": "Can I control your passport?",
+        "italian": "Posso controllare il tuo passaporto?",
+        "id": 0
+      },
+      {
+        "turkmen": "Ynha meniň pasportym.",
+        "english": "My passport is here.",
+        "italian": "Ecco il mio passaporto.",
+        "id": 1
+      },
+      {
+        "turkmen": "Men ...-yň raýaty.",
+        "english": "I am a citizen of …",
+        "italian": "Sono cittadino di …",
+        "id": 2
+      },
+      {
+        "turkmen": "Ukraina.",
+        "english": "Ukraine.",
+        "italian": "Ucraina.",
+        "id": 3
+      },
+      {
+        "turkmen": "Russiýa.",
+        "english": "Russia.",
+        "italian": "Russia.",
+        "id": 4
+      },
+      {
+        "turkmen": "Türkmenistan.",
+        "english": "Turkmenistan.",
+        "italian": "Turkmenistan.",
+        "id": 5
+      },
+      {
+        "turkmen": "Familiýaňyz näme?",
+        "english": "What is your surname?",
+        "italian": "Come ti chiami?",
+        "id": 6
+      },
+      {
+        "turkmen": "Adyňyz näme?",
+        "english": "What is your name?",
+        "italian": "Come è il tuo cognome?",
+        "id": 7
+      },
+      {
+        "turkmen": "Nireden gelýärsiňiz?",
+        "english": "Where are you coming from?",
+        "italian": "Da dove vieni?",
+        "id": 8
+      },
+      {
+        "turkmen": "Nirä barýarsyňyz?",
+        "english": "Where are you coming to?",
+        "italian": "Dove vieni ?",
+        "id": 9
+      },
+      {
+        "turkmen": "Siziň syýahatyňyzyň maksaty näme?",
+        "english": "What is the scope of your vacation?",
+        "italian": "Com'è lo scopo della tua visita?",
+        "id": 10
+      },
+      {
+        "turkmen": "Meniň giriş wizam bar.",
+        "english": "I have visa of ingress.",
+        "italian": "Ho il visto d'ingresso.",
+        "id": 11
+      },
+      {
+        "turkmen": "Siziň wizaňyzyň möhleti dolan.",
+        "english": "Your visa is out of date.",
+        "italian": "Il tuo visto è scaduto.",
+        "id": 12
+      },
+      {
+        "turkmen": "Maňa bu anketany doldurmaga kömek edip bilersiňizmi?",
+        "english": "Could you help me to complete this blank?",
+        "italian": "Mi potrebbe aitare a riempire questo modulo?",
+        "id": 13
+      },
+      {
+        "turkmen": "Ynha meniň goşum.",
+        "english": "My luggage is here.",
+        "italian": "Ecci il mio bagaglio.",
+        "id": 14
+      },
+      {
+        "turkmen": "Siziň goşlaryňyzy barlamaly.",
+        "english": "I have to control your luggage.",
+        "italian": "Io devo controllare il tuo bagaglio.",
+        "id": 15
+      },
+      {
+        "turkmen": "Barlag gutardy",
+        "english": "Control has finished.",
+        "italian": "Controllo è finito.",
+        "id": 16
+      },
+      {
+        "turkmen": "... üçin indiki uçuş haçan?",
+        "english": "When is next flight for …",
+        "italian": "Quando è il prossimo volo per …",
+        "id": 17
+      },
+      {
+        "turkmen": "Moskwa.",
+        "english": "To Moscov.",
+        "italian": "Mosca.",
+        "id": 18
+      },
+      {
+        "turkmen": "Angliýa.",
+        "english": "To England.",
+        "italian": "Inghilterra.",
+        "id": 19
+      },
+      {
+        "turkmen": "Rime.",
+        "english": "To Rome.",
+        "italian": "Roma.",
+        "id": 20
+      },
+      {
+        "turkmen": "Russiýa.",
+        "english": "To Russia.",
+        "italian": "Russia.",
+        "id": 21
+      },
+      {
+        "turkmen": "Häzir haýsy uçuş bar?",
+        "english": "Which flight is there now?",
+        "italian": "Quale volo c'è adesso?",
+        "id": 22
+      },
+      {
+        "turkmen": "Ynha bildirişler.",
+        "english": "Announcement is here.",
+        "italian": "Ecco annuncio.",
+        "id": 23
+      },
+      {
+        "turkmen": "Men özüm bilen sumkamy alyp bilerinmi?",
+        "english": "Can I bring my bag?",
+        "italian": "Posso portare la mia borsa con me?",
+        "id": 24
+      },
+      {
+        "turkmen": "Bir kilogram üçin näçe tölenilýär?",
+        "english": "How much is paid for one kilogram?",
+        "italian": "Quanto si deve pagare per uno chilo?",
+        "id": 25
+      }
+    ]
+  },
+  {
+    "category": {
+      "turkmen": "HASSAHANADA",
+      "english": "AT THE HOSPITAL",
+      "italian": "ALL'OSPEDALE",
+      "id": 4
+    },
+    "items": [
+      {
+        "turkmen": "Sizi näme biynjalyk edýär?",
+        "english": "What disturbs you?",
+        "italian": "Cosa La disturba?",
+        "id": 0
+      },
+      {
+        "turkmen": "Siz özüňizi näçe wagtdan bäri erbet duýýarsyňyz?",
+        "english": "When do you feel bad yourself?",
+        "italian": "Da quanto tempo si sente male?",
+        "id": 1
+      },
+      {
+        "turkmen": "Uludan dem alyň.",
+        "english": "Take aspiration deeply.",
+        "italian": "Faccia un'aspirazione profonda.",
+        "id": 2
+      },
+      {
+        "turkmen": "Demiňizi saklaň.",
+        "english": "Stop your breath.",
+        "italian": "Si fermi l'aspirazione.",
+        "id": 3
+      },
+      {
+        "turkmen": "Agzyňyzy açyň.",
+        "english": "Open your mouth.",
+        "italian": "Apra la bocca",
+        "id": 4
+      },
+      {
+        "turkmen": "Ýöräp bilýärsiňizmi?",
+        "english": "Can you walk?",
+        "italian": "Può camminare?",
+        "id": 5
+      },
+      {
+        "turkmen": "Men özümi erbet duýýaryn.",
+        "english": "I feel bad myself.",
+        "italian": "Mi sento male.",
+        "id": 6
+      },
+      {
+        "turkmen": "Jaň ediň ...",
+        "english": "Call …",
+        "italian": "Chiamate …",
+        "id": 7
+      },
+      {
+        "turkmen": "Lukmana",
+        "english": "To the doctor.",
+        "italian": "Il medico.",
+        "id": 8
+      },
+      {
+        "turkmen": "Tiz kömege",
+        "english": "To the ambulance.",
+        "italian": "Il pronto soccorso.",
+        "id": 9
+      },
+      {
+        "turkmen": "Maňa ... Beriň.",
+        "english": "Give me …",
+        "italian": "Mi dia …",
+        "id": 10
+      },
+      {
+        "turkmen": "Lukmanyň telefon nomerini",
+        "english": "Please, phone number of doctor.",
+        "italian": "Per favore, il numero di telefono del pronto soccorso",
+        "id": 11
+      },
+      {
+        "turkmen": "Lukmanyň salgysyny",
+        "english": "Please, adress of doctor.",
+        "italian": "L'indirizzo del dottore.",
+        "id": 12
+      },
+      {
+        "turkmen": "Meni golaýdaky hassahana äkidiň.",
+        "english": "Bring me to the hospital that it is near.",
+        "italian": "Portatemi all'ospedale più vicino.",
+        "id": 13
+      },
+      {
+        "turkmen": "Men sowuklapdyryn.",
+        "english": "I was cold.",
+        "italian": "Mi sono raffredato/a.",
+        "id": 14
+      },
+      {
+        "turkmen": "Meniň kelläm agyrýar.",
+        "english": "I have headache.",
+        "italian": "Ho mal di testa.",
+        "id": 15
+      },
+      {
+        "turkmen": "Meniň gözüm agyrýar.",
+        "english": "I have eyeache.",
+        "italian": "Mi fa male un occhio.",
+        "id": 16
+      },
+      {
+        "turkmen": "Meniň dişim agyrýar.",
+        "english": "I have toothache.",
+        "italian": "Mi fa male un dente.",
+        "id": 17
+      },
+      {
+        "turkmen": "Meniň gyzgynym bar.",
+        "english": "I have temperature.",
+        "italian": "Ho la febbre.",
+        "id": 18
+      },
+      {
+        "turkmen": "Meniň ... agyrym bar.",
+        "english": "I have …ache.",
+        "italian": "Mi fa male …",
+        "id": 19
+      },
+      {
+        "turkmen": "Ýürek",
+        "english": "Heart.",
+        "italian": "Il cuore.",
+        "id": 20
+      },
+      {
+        "turkmen": "Aşgazan.",
+        "english": "Stomach.",
+        "italian": "Lo stomaco.",
+        "id": 21
+      },
+      {
+        "turkmen": "Gulak",
+        "english": "Ear.",
+        "italian": "L'orecchio.",
+        "id": 22
+      },
+      {
+        "turkmen": "Aýak",
+        "english": "Leg",
+        "italian": "La gamba.",
+        "id": 23
+      },
+      {
+        "turkmen": "Gol",
+        "english": "Arm.",
+        "italian": "Il braccio.",
+        "id": 24
+      },
+      {
+        "turkmen": "Meniň allergiýam bar.",
+        "english": "I have an allergic.",
+        "italian": "Sono allergico/a",
+        "id": 25
+      },
+      {
+        "turkmen": "Men ukusyz.",
+        "english": "I am insomnia.",
+        "italian": "Ho l'insonnia.",
+        "id": 26
+      },
+      {
+        "turkmen": "Meniň aýagym/elim döwüldi",
+        "english": "My leg/arm was broken.",
+        "italian": "Mi sono rotto una gamba/una mano.",
+        "id": 27
+      }
+    ]
+  },
+  {
+    "category": {
+      "turkmen": "DERMANHANADA",
+      "english": "IN A PHARMACY",
+      "italian": " ALLA FARMACIA",
+      "id": 5
+    },
+    "items": [
+      {
+        "turkmen": "Dermanhana nirede?",
+        "english": "Where is a drugstore?",
+        "italian": "Dov'è la farmacia?",
+        "id": 0
+      },
+      {
+        "turkmen": "Maňa hatdaky dermanlar gerek?",
+        "english": "I need drugs in this prescription.",
+        "italian": "Vorrei avere la medicina oer la prescrizione.",
+        "id": 1
+      },
+      {
+        "turkmen": "Ol haçan taýyn bolar?",
+        "english": "When will it ready?",
+        "italian": "Quando sarà pronto?",
+        "id": 2
+      },
+      {
+        "turkmen": "Maňa ... garşy bir zatlar beraýiň.",
+        "english": "Give me against of …",
+        "italian": "Mi dia, per favore, qualcosa contro …",
+        "id": 3
+      },
+      {
+        "turkmen": "Üsgülewik.",
+        "english": "Cough.",
+        "italian": "La tosse.",
+        "id": 4
+      },
+      {
+        "turkmen": "Sowuklama.",
+        "english": "Cold.",
+        "italian": "Il raffreddore.",
+        "id": 5
+      },
+      {
+        "turkmen": "Dümew. ",
+        "english": "Influence.",
+        "italian": "L'influenza",
+        "id": 6
+      },
+      {
+        "turkmen": "Kellagyry.",
+        "english": "Headache.",
+        "italian": "Il  mal di testa.",
+        "id": 7
+      },
+      {
+        "turkmen": "Aşgazan agyry.",
+        "english": "Gastric.",
+        "italian": "Il disturbo gastrico.",
+        "id": 8
+      },
+      {
+        "turkmen": "Dişagyry.",
+        "english": "Toothache.",
+        "italian": "Il mal di denti.",
+        "id": 9
+      },
+      {
+        "turkmen": "Ukusyzlyk.",
+        "english": "Insomnia.",
+        "italian": "L'insonnia.",
+        "id": 10
+      },
+      {
+        "turkmen": "Sanawsyz bu dermany satyn alyp bilerinmi?",
+        "english": "Can I buy this drug without recept?",
+        "italian": "Posso comprare questa medicina senza la ricetta?",
+        "id": 11
+      },
+      {
+        "turkmen": "Men näçe tölemeli?",
+        "english": "How much shoud I pay?",
+        "italian": "Quanto devo pagare?",
+        "id": 12
+      },
+      {
+        "turkmen": "Men kart üsti bilen töläp bilerinmi?",
+        "english": "Can I pay by card?",
+        "italian": "Posso pagare questi con la carta?",
+        "id": 13
+      }
+    ]
+  },
+  {
+    "category": {
+      "turkmen": "TELEKOMMUNIKASIÝA",
+      "english": "TELECOMMUNICATION",
+      "italian": "TELECOMUNICAZIONE",
+      "id": 6
+    },
+    "items": [
+      {
+        "turkmen": "Telefon nirede?",
+        "english": "Where is phone?",
+        "italian": "Dov'è il telefono?",
+        "id": 0
+      },
+      {
+        "turkmen": "Seniň telefonuňy ulanyp bilerinmi?",
+        "english": "Can I use your phone?",
+        "italian": "Posso usare il suo telefono?",
+        "id": 1
+      },
+      {
+        "turkmen": "Maňa telefon belgiňi ber.",
+        "english": "Give me your phone number.",
+        "italian": "Mi dia il suo telefono.",
+        "id": 2
+      },
+      {
+        "turkmen": "Bu seniň telefon belgiňmi?",
+        "english": "Is this your phone number?",
+        "italian": "Questo è il suo numero?",
+        "id": 3
+      },
+      {
+        "turkmen": "Maňa jaň edip bilersiňmi?",
+        "english": "Could you call me?",
+        "italian": "Può chiamarmi?",
+        "id": 4
+      },
+      {
+        "turkmen": "Jaň etmek üçin näme etmeli?",
+        "english": "What do I do to call?",
+        "italian": "Come devo fare per telefonare?",
+        "id": 5
+      },
+      {
+        "turkmen": "Haýyş edýän, jaň ediň",
+        "english": "Please, call",
+        "italian": "Per favore, mi telefona.",
+        "id": 6
+      },
+      {
+        "turkmen": "Bir minuda näçe tölenilýär?",
+        "english": "How much is paid for one minute?",
+        "italian": "Quanto si paga per un minuto?",
+        "id": 7
+      },
+      {
+        "turkmen": "Men belgiňi ýalňyşdym.",
+        "english": "I made mistake in number.",
+        "italian": "Ho sbagliato numero.",
+        "id": 8
+      },
+      {
+        "turkmen": "Müşderi meşgul.",
+        "english": "Number is busy.",
+        "italian": "Il numero è occupato.",
+        "id": 9
+      },
+      {
+        "turkmen": "Müşderi jogap bermeýär.",
+        "english": "Number doesn't answer.",
+        "italian": "Il numero non risponde.",
+        "id": 10
+      },
+      {
+        "turkmen": "Telefon işlemeýär.",
+        "english": "Phone doesn't work.",
+        "italian": "Il telefono non funziona.",
+        "id": 11
+      },
+      {
+        "turkmen": "Alo!",
+        "english": "Hello?",
+        "italian": "Pronto?",
+        "id": 12
+      },
+      {
+        "turkmen": "Kim bu?",
+        "english": "Who is this?",
+        "italian": "Chi è questo?",
+        "id": 13
+      },
+      {
+        "turkmen": "Alo diňleýän...",
+        "english": "Yeah, hello…",
+        "italian": "Sì, pronto…",
+        "id": 14
+      },
+      {
+        "turkmen": "Alo gürläň...",
+        "english": "Hello, speak…",
+        "italian": "Pronto, dica…",
+        "id": 15
+      },
+      {
+        "turkmen": "Bir minut garaşyň.",
+        "english": "Just for a minute",
+        "italian": "Attenda un minuto",
+        "id": 16
+      },
+      {
+        "turkmen": "Men ... bilen gürleşip bilerinmiz?",
+        "english": "Can I talk to … ?",
+        "italian": "Posso parlare con … ?",
+        "id": 17
+      },
+      {
+        "turkmen": "Mugallym.",
+        "english": "Teacher.",
+        "italian": "Insegnante.",
+        "id": 18
+      },
+      {
+        "turkmen": "Jenap",
+        "english": "Signor.",
+        "italian": "Il signore.",
+        "id": 19
+      },
+      {
+        "turkmen": "Lukman.",
+        "english": "Doctor.",
+        "italian": "Il dottore.",
+        "id": 20
+      },
+      {
+        "turkmen": "Ol häzir siz bilen gürleşip bilmeýär.",
+        "english": "He/She can't talk to you.",
+        "italian": "Non può parlare con te.",
+        "id": 21
+      },
+      {
+        "turkmen": "Häzir ol ýok.",
+        "english": "He/She isn't here now.",
+        "italian": "Adesso non c'è.",
+        "id": 22
+      },
+      {
+        "turkmen": "Oňa näme aýtmaly?",
+        "english": "What should I say her/him?",
+        "italian": "Cosa le/gli devo dire?",
+        "id": 23
+      },
+      {
+        "turkmen": "Täzeden jaň ediň.",
+        "english": "Call again.",
+        "italian": "Telefona di nuova.",
+        "id": 24
+      },
+      {
+        "turkmen": "Men soňrak jaň ederin.",
+        "english": "I will call you later.",
+        "italian": "Chiamerò più tardi.",
+        "id": 25
+      },
+      {
+        "turkmen": "Haýyş edýän, çalt gürlemäň.",
+        "english": "Please, don't speak fast.",
+        "italian": "Per favore, non parli velocemente.",
+        "id": 26
+      },
+      {
+        "turkmen": "Sizi eşidip bilmeýärin.",
+        "english": "I can't hear you.",
+        "italian": "Non posso sentirLa.",
+        "id": 27
+      },
+      {
+        "turkmen": "Siz belgiňizi ýalňyşdyňyz.",
+        "english": "You made your number.",
+        "italian": "Ha sbagliato il numero.",
+        "id": 28
+      },
+      {
+        "turkmen": "Bagyşlaň!",
+        "english": "Excuse me!",
+        "italian": "Mi scusi!",
+        "id": 29
+      },
+      {
+        "turkmen": "Men SMS ýazaryn.",
+        "english": "I will send message.",
+        "italian": "Manderò il messaggio.",
+        "id": 30
+      }
+    ]
+  },
+  {
+    "category": {
+      "turkmen": "TEARTDA",
+      "english": "AT THE THEATRE",
+      "italian": "AL TEATRO",
+      "id": 7
+    },
+    "items": [
+      {
+        "turkmen": "Men ... gitmek isleýärin.",
+        "english": "I want to go …",
+        "italian": "Vorrei andare …",
+        "id": 0
+      },
+      {
+        "turkmen": "Teatra.",
+        "english": "To the theatre.",
+        "italian": "Al teatro.",
+        "id": 1
+      },
+      {
+        "turkmen": "Konserte.",
+        "english": "To concert.",
+        "italian": "Al concerto.",
+        "id": 2
+      },
+      {
+        "turkmen": "Opera.",
+        "english": "To opera.",
+        "italian": "All'opera.",
+        "id": 3
+      },
+      {
+        "turkmen": "Sen maňa näme görmegi maslahat berýärsiň?",
+        "english": "What advice could you give me what to see ?",
+        "italian": "Cosa mi consigliate di vedere?",
+        "id": 4
+      },
+      {
+        "turkmen": "Siziň ... üçin biletleriňiz barmy?",
+        "english": "Do you have tickets for …?",
+        "italian": "Avete un biglietto per …?",
+        "id": 5
+      },
+      {
+        "turkmen": "Maňa bir bilet gerek.",
+        "english": "I need one ticket.",
+        "italian": "Vorrei un biglietto.",
+        "id": 6
+      },
+      {
+        "turkmen": "Maňa ... bilet beriň.",
+        "english": "Give me the ticket for …",
+        "italian": "Mi dia un biglietto per …",
+        "id": 7
+      },
+      {
+        "turkmen": "Sahna ýakyn.",
+        "english": "Near the scene.",
+        "italian": "Vicino alla scena.",
+        "id": 8
+      },
+      {
+        "turkmen": "Spektakl haçan başlaýar?",
+        "english": "When does the spectacle begin?",
+        "italian": "Quando comincia spettacolo?",
+        "id": 9
+      },
+      {
+        "turkmen": "Biziň ýerimiz nirede?",
+        "english": "Where is our place?",
+        "italian": "Dove sono i nostri posti?",
+        "id": 10
+      },
+      {
+        "turkmen": "Maňa ýerimi görkezip bilersiňmi?",
+        "english": "Could you show me my place?",
+        "italian": "Mi faccia vedere i nostri posti",
+        "id": 11
+      },
+      {
+        "turkmen": "Bu spektaklda näçe çykyş bar?",
+        "english": "How many action is there in this spectacle?",
+        "italian": "Quante aziono ci sono in questo spettacolo?",
+        "id": 12
+      },
+      {
+        "turkmen": "Munyň awtory kim?",
+        "english": "Who is its author?",
+        "italian": "Chi è l'autore?",
+        "id": 13
+      },
+      {
+        "turkmen": "Bu spektakl ...",
+        "english": "This spectacle is …",
+        "italian": "Questo spettacolo è …",
+        "id": 14
+      },
+      {
+        "turkmen": "Gowy.",
+        "english": "Good.",
+        "italian": "Buono.",
+        "id": 15
+      },
+      {
+        "turkmen": "Gyzykly.",
+        "english": "Interesting.",
+        "italian": "Interssante.",
+        "id": 16
+      },
+      {
+        "turkmen": "Içgysgynç.",
+        "english": "Boring.",
+        "italian": "Noioso.",
+        "id": 17
+      },
+      {
+        "turkmen": "Maňa ... ýarady.",
+        "english": "I liked …",
+        "italian": "Mi è piaciuto …",
+        "id": 18
+      },
+      {
+        "turkmen": "Maňa ... ýaramady.",
+        "english": "I didn't like …",
+        "italian": "Non mi è piaciuto …",
+        "id": 19
+      },
+      {
+        "turkmen": "Sazy.",
+        "english": "Music.",
+        "italian": "La musica.",
+        "id": 20
+      },
+      {
+        "turkmen": "Bezegi.",
+        "english": "Decoration.",
+        "italian": "La decorazione.",
+        "id": 21
+      },
+      {
+        "turkmen": "Eşikleri.",
+        "english": "Clothes.",
+        "italian": "I costumi.",
+        "id": 22
+      },
+      {
+        "turkmen": "Sözleri.",
+        "english": "Words",
+        "italian": "Le parole.",
+        "id": 23
+      }
+    ]
+  },
+  {
+    "category": {
+      "turkmen": "MUZEÝDE",
+      "english": "AT THE MUSEUM",
+      "italian": "AL MUSEO",
+      "id": 8
+    },
+    "items": [
+      {
+        "turkmen": "Men ... syýahat etmek isleýärin.",
+        "english": "I want to visit …",
+        "italian": "Vorrei visitare …",
+        "id": 0
+      },
+      {
+        "turkmen": "Muzeýe.",
+        "english": "To the museum.",
+        "italian": "Al museo.",
+        "id": 1
+      },
+      {
+        "turkmen": "Suratly sergä.",
+        "english": "To the picture gallery.",
+        "italian": "Al pinacoteca",
+        "id": 2
+      },
+      {
+        "turkmen": "Sergä.",
+        "english": "To the exhibition.",
+        "italian": "Alla mostra.",
+        "id": 3
+      },
+      {
+        "turkmen": "Ol nirede ýerleşýär?",
+        "english": "Where is it situated?",
+        "italian": "Dove si trova?",
+        "id": 4
+      },
+      {
+        "turkmen": "Muzeý her gün açykmy?",
+        "english": "Is museum open every day?",
+        "italian": "Museo è aperto ogni giorno?",
+        "id": 5
+      },
+      {
+        "turkmen": "Sagat näçede açylýar?",
+        "english": "What time does it open?",
+        "italian": "A che ora è aperto?",
+        "id": 6
+      },
+      {
+        "turkmen": "Bileti näçe?",
+        "english": "How much is ticket?",
+        "italian": "Quanto costa un biglietto?",
+        "id": 7
+      },
+      {
+        "turkmen": "Bu ýerde surata almak mümkinmi?",
+        "english": "Is to take a photo possible?",
+        "italian": "Si fa foto qui?",
+        "id": 8
+      },
+      {
+        "turkmen": "Sende ... Portreti barmy?",
+        "english": "Do you have a portret of …",
+        "italian": "Avete quadri di … ?",
+        "id": 9
+      },
+      {
+        "turkmen": "Mikelanjelo.",
+        "english": "Michelangelo.",
+        "italian": "Michelangelo.",
+        "id": 10
+      },
+      {
+        "turkmen": "Täzeden döreýiş döwrüniň ussatlary.",
+        "english": "Maestroes of Renaissance.",
+        "italian": "Maestri Rinascimento",
+        "id": 11
+      },
+      {
+        "turkmen": "Häzirki zaman suratkeş.",
+        "english": "Modern drawer.",
+        "italian": "Pittori contemporari.",
+        "id": 12
+      },
+      {
+        "turkmen": "Meni ... gyzyklandyrýar.",
+        "english": "I am interested in …",
+        "italian": "Mi interessa …",
+        "id": 13
+      },
+      {
+        "turkmen": "Surat.",
+        "english": "Picture.",
+        "italian": "La pittura.",
+        "id": 14
+      },
+      {
+        "turkmen": "Heýkeltaraş.",
+        "english": "Sculpture.",
+        "italian": "La sculptura.",
+        "id": 15
+      },
+      {
+        "turkmen": "Gadymy sungat",
+        "english": "Ancient art.",
+        "italian": "L'arte antica.",
+        "id": 16
+      },
+      {
+        "turkmen": "Suratlar zaly nirede?",
+        "english": "Where is hall of picture?",
+        "italian": "Dov'è esposta la pittura?",
+        "id": 17
+      },
+      {
+        "turkmen": "Awtory kim?",
+        "english": "Who is its author?",
+        "italian": "Chi è l'autore?",
+        "id": 18
+      },
+      {
+        "turkmen": "Ol haçan ýaşap geçipdir?",
+        "english": "When has she/he lived?",
+        "italian": "Quando visse?",
+        "id": 19
+      },
+      {
+        "turkmen": "Maňa ... Ýaraýar.",
+        "english": "I like ..",
+        "italian": "Mi piace …",
+        "id": 20
+      },
+      {
+        "turkmen": "Bu surat.",
+        "english": "This picture.",
+        "italian": "Questo quadro.",
+        "id": 21
+      },
+      {
+        "turkmen": "Bu heýkeltaraş.",
+        "english": "This sculpture.",
+        "italian": "Questa sculptura.",
+        "id": 22
+      },
+      {
+        "turkmen": "Nireden satyn alyp bilerin?",
+        "english": "Where can I buy from?",
+        "italian": "Dove posso comprare?",
+        "id": 23
+      },
+      {
+        "turkmen": "Muzeýi salgy berip bilersiňmi?",
+        "english": "Could you guide me museum?",
+        "italian": "Puoi guidarmi del museo?",
+        "id": 24
+      }
+    ]
+  },
+  {
+    "category": {
+      "turkmen": "RESTORANDA",
+      "english": "IN A RESTAURANT",
+      "italian": "AL RISTORANTE",
+      "id": 9
+    },
+    "items": [
+      {
+        "turkmen": "Men ... iýmek isleýärin.",
+        "english": "I want to eat …",
+        "italian": "Vorrei mangiare …",
+        "id": 0
+      },
+      {
+        "turkmen": "Men ... içmek isleýärin.",
+        "english": "I want to drink …",
+        "italian": "Vorrei bere …",
+        "id": 1
+      },
+      {
+        "turkmen": "Şu golaýda gowy restoran barmy?",
+        "english": "Is there better restaurant here?",
+        "italian": "C'è il ristorante vicino a qui?",
+        "id": 2
+      },
+      {
+        "turkmen": "Haçan açylýar?",
+        "english": "When does it open?",
+        "italian": "Quando si apre?",
+        "id": 3
+      },
+      {
+        "turkmen": "Haçan ýapylýar?",
+        "english": "When does it close?",
+        "italian": "Quando si chiude?",
+        "id": 4
+      },
+      {
+        "turkmen": "Men ... stol isleýärin.",
+        "english": "I want the table …",
+        "italian": "Vorrei un tavolo …",
+        "id": 5
+      },
+      {
+        "turkmen": "Aýna golaý.",
+        "english": "Near the window.",
+        "italian": "Vicino alla finestra.",
+        "id": 6
+      },
+      {
+        "turkmen": "Aýdym-saza ýakyn.",
+        "english": "Near the music.",
+        "italian": "Vicino alla musica.",
+        "id": 7
+      },
+      {
+        "turkmen": "Ynha sanaw.",
+        "english": "Menu is here.",
+        "italian": "Ecco, menu.",
+        "id": 8
+      },
+      {
+        "turkmen": "Näme buýurduňyz?",
+        "english": "What did you order?",
+        "italian": "Cosa ordinate?",
+        "id": 9
+      },
+      {
+        "turkmen": "Şol stol boşmy?",
+        "english": "Is that table free?",
+        "italian": "È libero quel tavolo?",
+        "id": 10
+      },
+      {
+        "turkmen": "Men entek buýurmadym.",
+        "english": "I didn't order yet.",
+        "italian": "Non ordino ancora.",
+        "id": 11
+      },
+      {
+        "turkmen": "Haýyş edýän, ýene-de ... getiriň.",
+        "english": "Please, could you bring … here?",
+        "italian": "Per favore, Può portarmi …?",
+        "id": 12
+      },
+      {
+        "turkmen": "Oturgyç.",
+        "english": "A chair.",
+        "italian": "Una sedia.",
+        "id": 13
+      },
+      {
+        "turkmen": "Bulgur.",
+        "english": "A glass",
+        "italian": "Un bicchiere.",
+        "id": 14
+      },
+      {
+        "turkmen": "Salfetka.",
+        "english": "Tissue.",
+        "italian": "Tovagliolo.",
+        "id": 15
+      },
+      {
+        "turkmen": "Çemçe.",
+        "english": "A spoon.",
+        "italian": "Chiachiaio.",
+        "id": 16
+      },
+      {
+        "turkmen": "Wilka.",
+        "english": "A fork.",
+        "italian": "Forchetta.",
+        "id": 17
+      },
+      {
+        "turkmen": "Pyçak.",
+        "english": "A knife.",
+        "italian": "Cortello.",
+        "id": 18
+      },
+      {
+        "turkmen": "Işdäňiz açyk bolsun.",
+        "english": "Enjoy your meal.",
+        "italian": "Buon appetitio.",
+        "id": 19
+      },
+      {
+        "turkmen": "Süýjümi?",
+        "english": "Is it delicious?",
+        "italian": "È buono?",
+        "id": 20
+      },
+      {
+        "turkmen": "Örän süýji.",
+        "english": "It is the most delicious.",
+        "italian": "È buonissimo.",
+        "id": 21
+      },
+      {
+        "turkmen": "Men berhizde.",
+        "english": "I am on a diet.",
+        "italian": "Sono a dieta.",
+        "id": 22
+      },
+      {
+        "turkmen": "Maňa ... geçirip bilersiňmi?",
+        "english": "Could you pass me … ?",
+        "italian": " Può portarmi …?",
+        "id": 23
+      },
+      {
+        "turkmen": "Duz.",
+        "english": "Salt.",
+        "italian": "Sale.",
+        "id": 24
+      },
+      {
+        "turkmen": "Burç.",
+        "english": "Pepper.",
+        "italian": "Peperone.",
+        "id": 25
+      },
+      {
+        "turkmen": "Ýag.",
+        "english": "Oil.",
+        "italian": "Olio.",
+        "id": 26
+      },
+      {
+        "turkmen": "Çörek.",
+        "english": "Bread.",
+        "italian": "Pane.",
+        "id": 27
+      },
+      {
+        "turkmen": "Suw.",
+        "english": "Water.",
+        "italian": "Aqua.",
+        "id": 28
+      },
+      {
+        "turkmen": "Men köp iýdim.",
+        "english": "I have eaten more.",
+        "italian": "Ho mangiato troppo.",
+        "id": 29
+      },
+      {
+        "turkmen": "Sen maňa näme almagy maslahat berýärsiň?",
+        "english": "What advice can you give me what to take?",
+        "italian": "Cosa mi consiglia di prendere?",
+        "id": 30
+      },
+      {
+        "turkmen": "Kömelek.",
+        "english": "Mushroom.",
+        "italian": "Funghi.",
+        "id": 31
+      },
+      {
+        "turkmen": "Deňiz önümleri.",
+        "english": "Fruits of sea.",
+        "italian": "Frutti di mare.",
+        "id": 32
+      },
+      {
+        "turkmen": "Balyk.",
+        "english": "Fish.",
+        "italian": "Pesce.",
+        "id": 33
+      },
+      {
+        "turkmen": "Işdäaçar.",
+        "english": "Salad.",
+        "italian": "Insalata.",
+        "id": 34
+      },
+      {
+        "turkmen": "Çorba.",
+        "english": "Soup.",
+        "italian": "La zuppa.",
+        "id": 35
+      },
+      {
+        "turkmen": "Ýeralma.",
+        "english": "Potatoes.",
+        "italian": "Potato.",
+        "id": 36
+      },
+      {
+        "turkmen": "Buzgaýmak.",
+        "english": "Ice-cream.",
+        "italian": "Il gelato.",
+        "id": 37
+      },
+      {
+        "turkmen": "Miwe şiresi.",
+        "english": "Juice.",
+        "italian": "Il succo.",
+        "id": 38
+      },
+      {
+        "turkmen": "Pyrtykal şiresi.",
+        "english": "Orange juice.",
+        "italian": "Il succo d'arancia.",
+        "id": 39
+      },
+      {
+        "turkmen": "Üzüm şiresi.",
+        "english": "Grape juice.",
+        "italian": "Il succo d'uva.",
+        "id": 40
+      },
+      {
+        "turkmen": "Çaý.",
+        "english": "Tea.",
+        "italian": "Tè.",
+        "id": 41
+      },
+      {
+        "turkmen": "Limonly çaý.",
+        "english": "Tea of lemon",
+        "italian": "Il tè di limone.",
+        "id": 42
+      },
+      {
+        "turkmen": "Şokolad.",
+        "english": "Chocolate.",
+        "italian": "La cioccalata.",
+        "id": 43
+      },
+      {
+        "turkmen": "Kofa.",
+        "english": "Coffee.",
+        "italian": "Caffè.",
+        "id": 44
+      },
+      {
+        "turkmen": "Gazly suw.",
+        "english": "Sparkling water.",
+        "italian": "L'aqua gassata.",
+        "id": 45
+      },
+      {
+        "turkmen": "Näçe tölemeli?",
+        "english": "How much sould I pay?",
+        "italian": "Quanto costa?",
+        "id": 46
+      },
+      {
+        "turkmen": "Siziň maslahat beren zadyňyzy alaryn.",
+        "english": "I want to take what you adviced me.",
+        "italian": "Vorrei prendere che cosa mi hai consigliato.",
+        "id": 47
+      },
+      {
+        "turkmen": "Sizde wegetariýan naharlar barmy?",
+        "english": "Have you got the meal of vegetarian?",
+        "italian": "Avete il piatto per vegetariano?",
+        "id": 48
+      },
+      {
+        "turkmen": "Hasaby (sçýody) getiräýiň!",
+        "english": "Count, please!",
+        "italian": "Conto, per favore!.",
+        "id": 49
+      }
+    ]
+  },
+  {
+    "category": {
+      "turkmen": "KITAPHANADA",
+      "english": "AT THE LIBRARY",
+      "italian": "ALLA BIBLIOTECA",
+      "id": 10
+    },
+    "items": [
+      {
+        "turkmen": "Kitaphana nirede?",
+        "english": "Where is the library?",
+        "italian": "Dov'è la biblioteca?",
+        "id": 0
+      },
+      {
+        "turkmen": "Maňa şu gün bir žurnal berip bilermisiňiz?",
+        "english": "Could you give me a journal today?",
+        "italian": "Mi dia una rivista di oggi?",
+        "id": 1
+      },
+      {
+        "turkmen": "Sizde ... Dilinde žurnal barmy?",
+        "english": "Do you have journal in …?",
+        "italian": "Avete una rivista nella lingua …?",
+        "id": 2
+      },
+      {
+        "turkmen": "Iňlis.",
+        "english": "English.",
+        "italian": "Inglese.",
+        "id": 3
+      },
+      {
+        "turkmen": "Rus.",
+        "english": "Russian.",
+        "italian": "Russa.",
+        "id": 4
+      },
+      {
+        "turkmen": "Italýan.",
+        "english": "Italian.",
+        "italian": "Italiana.",
+        "id": 5
+      },
+      {
+        "turkmen": "Türk.",
+        "english": "Turkish.",
+        "italian": "Turca.",
+        "id": 6
+      },
+      {
+        "turkmen": "Maňa ... hakynda kitap gerek.",
+        "english": "I need the book about …",
+        "italian": "Vorrei un libro di …",
+        "id": 7
+      },
+      {
+        "turkmen": "Syýasat.",
+        "english": "Politics.",
+        "italian": "Politica.",
+        "id": 8
+      },
+      {
+        "turkmen": "Ykdysadyýet.",
+        "english": "Economics.",
+        "italian": "Economia.",
+        "id": 9
+      },
+      {
+        "turkmen": "Bilim.",
+        "english": "Education.",
+        "italian": "Istruzione.",
+        "id": 10
+      },
+      {
+        "turkmen": "Medeniýet.",
+        "english": "Culture.",
+        "italian": "Cultura.",
+        "id": 11
+      },
+      {
+        "turkmen": "Taryh.",
+        "english": "History.",
+        "italian": "Storia.",
+        "id": 12
+      },
+      {
+        "turkmen": "Sizde ...  kitap barmy?",
+        "english": "Do you have a book … ?",
+        "italian": "Avete un libro …?",
+        "id": 13
+      },
+      {
+        "turkmen": "Men ... okaýaryn.",
+        "english": "I read …",
+        "italian": "So leggendo …",
+        "id": 14
+      },
+      {
+        "turkmen": "Roman.",
+        "english": "Roman.",
+        "italian": "Romanzo.",
+        "id": 15
+      },
+      {
+        "turkmen": "Hekaýa.",
+        "english": "Story.",
+        "italian": "Favola.",
+        "id": 16
+      },
+      {
+        "turkmen": "Goşgy.",
+        "english": "Poem.",
+        "italian": "Poema.",
+        "id": 17
+      }
+    ]
+  },
+  {
+    "category": {
+      "turkmen": "MYHMANHANADA",
+      "english": "AT THE HOTEL",
+      "italian": "ALL'ALBERGO",
+      "id": 11
+    },
+    "items": [
+      {
+        "turkmen": "Biz haýsy myhmanhanada galýarys?",
+        "english": "Which hotel do we stay?",
+        "italian": "In che albergo ci fermiamo?",
+        "id": 0
+      },
+      {
+        "turkmen": "Bize golaýda ýerleşýän myhmanhana gerek.",
+        "english": "We need the hotel nearby.",
+        "italian": "abbiamo bisogna di albergo vicino qiu.",
+        "id": 1
+      },
+      {
+        "turkmen": "Myhmanhana nirede ýerleşýär?",
+        "english": "Where is hotel location?",
+        "italian": "Dove si trova ?",
+        "id": 2
+      },
+      {
+        "turkmen": "Merkezde.",
+        "english": "In center.",
+        "italian": "Al centro.",
+        "id": 3
+      },
+      {
+        "turkmen": "Dükana golaý.",
+        "english": "Near the shop.",
+        "italian": "Vicino al negozio.",
+        "id": 4
+      },
+      {
+        "turkmen": "Sizde boş otag barmy?",
+        "english": "Do you have a spare room? ",
+        "italian": "Avete una camera libera?",
+        "id": 5
+      },
+      {
+        "turkmen": "Ol näçe otagly?",
+        "english": "How many rooms does it have?",
+        "italian": "Quante camere ha?",
+        "id": 6
+      },
+      {
+        "turkmen": "Tölegi näçe?",
+        "english": "How much is it?",
+        "italian": "Quanto costa?",
+        "id": 7
+      },
+      {
+        "turkmen": "Maňa üç günlük otag gerek.",
+        "english": "I need the room for three days.",
+        "italian": "Vorrei una camera per tre giorni.",
+        "id": 8
+      },
+      {
+        "turkmen": "Maňa bir otag bron edip bilermisiňiz?",
+        "english": "Could you book me a room, please?",
+        "italian": "Prenotatemi una camera, per favore?",
+        "id": 9
+      },
+      {
+        "turkmen": "Meniň adyma bir otag bron edildi.",
+        "english": "A room was booked for me. ",
+        "italian": "A mio nome una camera è stata prenotata.",
+        "id": 10
+      },
+      {
+        "turkmen": "Otagy görüp bilerinmi?",
+        "english": "Can I see the room?",
+        "italian": "Posso guardare una camera?",
+        "id": 11
+      },
+      {
+        "turkmen": "Näçe günlük bolmakçy siz?",
+        "english": "How many days are you going to stay?",
+        "italian": "Quanti giorni si ferma?",
+        "id": 12
+      },
+      {
+        "turkmen": "Bir gün.",
+        "english": "One day.",
+        "italian": "Un giorno.",
+        "id": 13
+      },
+      {
+        "turkmen": "Üç hepde.",
+        "english": "Three weeks.",
+        "italian": "Tre settimane.",
+        "id": 14
+      },
+      {
+        "turkmen": "Bir aý.",
+        "english": "One month.",
+        "italian": "Un mese.",
+        "id": 15
+      },
+      {
+        "turkmen": "Men anketany nähili doldurmaly?",
+        "english": "How should I comlpete the blank?",
+        "italian": "Come devo riempire un modulo?",
+        "id": 16
+      },
+      {
+        "turkmen": "Ynha siziň otagyňyzyň açarlary.",
+        "english": "Keys of your room are here.",
+        "italian": "Ecco le chiavi della Sua camera.",
+        "id": 17
+      },
+      {
+        "turkmen": "Basgançak nirede?",
+        "english": "Where is the elevator?",
+        "italian": "Dov'è l'ascensore?",
+        "id": 18
+      },
+      {
+        "turkmen": "Meniň goşlarymy getirip beräýiň, haýyş edýärin.",
+        "english": "Bring my luggage, please.",
+        "italian": "Portatemi il mio bagaglio, per favore.",
+        "id": 19
+      }
+    ]
+  },
+  {
+    "category": {
+      "turkmen": "AWTOBUS DURALGASYNDA",
+      "english": "AT THE BUS STATION",
+      "italian": "ALLA FERMATA DELL'AUTOBUS",
+      "id": 12
+    },
+    "items": [
+      {
+        "turkmen": "Awtobus duralgasy nirede?",
+        "english": "Where is the bus stop?",
+        "italian": "Dove si trova la fermata dell'autobus?",
+        "id": 0
+      },
+      {
+        "turkmen": "Bu ýerden ... Gidip bolýarmy?",
+        "english": "Is it possible to go to … here?",
+        "italian": "Da qui c'è autobus per ?",
+        "id": 1
+      },
+      {
+        "turkmen": "Merkeze.",
+        "english": "To centre.",
+        "italian": "Al centro.",
+        "id": 2
+      },
+      {
+        "turkmen": "Wokzala.",
+        "english": "To station.",
+        "italian": "Alla stazione.",
+        "id": 3
+      },
+      {
+        "turkmen": "Aereporta.",
+        "english": "To the airport.",
+        "italian": "All'aereporto.",
+        "id": 4
+      },
+      {
+        "turkmen": "Bu ýerden ... belgili awtobus geçýärmi?",
+        "english": "Is there the bus … here?",
+        "italian": "C'è l'autobus … qui?",
+        "id": 5
+      },
+      {
+        "turkmen": "Awtobus biletlerini nireden satyn alyp bilerin?",
+        "english": "Where can I buy the ticket of bus from?",
+        "italian": "Dove posso comprare il biglietto dell'autobus?",
+        "id": 6
+      },
+      {
+        "turkmen": "Biletiň bahasy näçe?",
+        "english": "How much is ticket?",
+        "italian": "Quanto costa il biglietto?",
+        "id": 7
+      },
+      {
+        "turkmen": "... çenli näçe duralga bar?",
+        "english": "How many station is there to …?",
+        "italian": "Quante stazioni ci sono per …?",
+        "id": 8
+      },
+      {
+        "turkmen": "Indiki duralga näme?",
+        "english": "What is next station?",
+        "italian": "Qual'è prossima stazione?",
+        "id": 9
+      },
+      {
+        "turkmen": "Men nireden münmeli/düşmeli?",
+        "english": "Where should I get on/off from?",
+        "italian": "Dove devo scendere/prendere?",
+        "id": 10
+      },
+      {
+        "turkmen": "Men awtobusy çalyşmalymy?",
+        "english": "Should I change the bus?",
+        "italian": "Devo cambiare l'autobus?",
+        "id": 11
+      },
+      {
+        "turkmen": "Siz indiki awtobusa münmeli.",
+        "english": "You should get on next bus.",
+        "italian": "Devi prendere prossimo autobus. ",
+        "id": 12
+      },
+      {
+        "turkmen": "Siz awtobusy ýalňyşdyňyz.",
+        "english": "You made a mistake bus.",
+        "italian": "Ha sbagliato l'autobus.",
+        "id": 13
+      }
+    ]
+  },
+  {
+    "category": {
+      "turkmen": "WOKZALDA",
+      "english": "AT THE STATION",
+      "italian": "ALLA STAZIONE",
+      "id": 13
+    },
+    "items": [
+      {
+        "turkmen": "Otly duralgasy nirede?",
+        "english": "Where is the station?",
+        "italian": "Dove si trova la stazione?",
+        "id": 0
+      },
+      {
+        "turkmen": "Häzir ... üçin otly geçýärmi?",
+        "english": "Is there the train … here now?",
+        "italian": "C'è il treno … qui adesso?",
+        "id": 1
+      },
+      {
+        "turkmen": "Otly biletlerini nireden satyn alyp bilerin?",
+        "english": "Where can I buy the ticket of train from?",
+        "italian": "Dove posso comprare il biglietto dell'auotbus?",
+        "id": 2
+      },
+      {
+        "turkmen": "Biletiň bahasy näçe?",
+        "english": "How much is ticket?",
+        "italian": "Quanto csota il biglietto?",
+        "id": 3
+      },
+      {
+        "turkmen": "... çenli näçe duralga bar?",
+        "english": "How many station is there to …?",
+        "italian": "Quante stazioni c'è per …?",
+        "id": 4
+      },
+      {
+        "turkmen": "Indiki duralga näme?",
+        "english": "What is next station?",
+        "italian": "Qual'è prossima stazione?",
+        "id": 5
+      },
+      {
+        "turkmen": "Otly haçan ugraýar?",
+        "english": "When does the train go?",
+        "italian": "Quando va il treno?",
+        "id": 6
+      },
+      {
+        "turkmen": "Biz ornumyzy çalşyp bilerismi?",
+        "english": "Can we change our place?",
+        "italian": "Possiamo cambiare il nostro posto?",
+        "id": 7
+      },
+      {
+        "turkmen": "Biz biledimizi çalşyp bilerismi?",
+        "english": "Can we change our ticket?",
+        "italian": "Possiamo cambiare il nostro biglietto?",
+        "id": 8
+      },
+      {
+        "turkmen": "Ýüklerime kömek edip bilersiňizmi?",
+        "english": "Could you help me to bring my luggage?",
+        "italian": "Può aiutarmi per portare il mio bagaglio?",
+        "id": 9
+      },
+      {
+        "turkmen": "Goşlary göterişmäge kömek gerekmi size?",
+        "english": "Can I help you to bring your luggage?",
+        "italian": "Posso aiutarLe per portare il suo bagaglio?",
+        "id": 10
+      }
+    ]
+  },
+  {
+    "category": {
+      "turkmen": "ŞÄHERDE",
+      "english": "IN THE CITY",
+      "italian": "ALLA CITTÀ",
+      "id": 14
+    },
+    "items": [
+      {
+        "turkmen": "… nirede?",
+        "english": "Where is …?",
+        "italian": "Dov'è …?",
+        "id": 0
+      },
+      {
+        "turkmen": "Muzeý.",
+        "english": "Museum.",
+        "italian": "Museo.",
+        "id": 1
+      },
+      {
+        "turkmen": "Kinoteatr.",
+        "english": "Cinema.",
+        "italian": "Cinema.",
+        "id": 2
+      },
+      {
+        "turkmen": "Teatr.",
+        "english": "Theatre.",
+        "italian": "Teatro.",
+        "id": 3
+      },
+      {
+        "turkmen": "... nähili baryp bolýar?",
+        "english": "How can I come to …?",
+        "italian": "Come meglio andare al…?",
+        "id": 4
+      },
+      {
+        "turkmen": "Şäher kitaphanasyna.",
+        "english": "Library",
+        "italian": "Libreria",
+        "id": 5
+      },
+      {
+        "turkmen": "Hassahana.",
+        "english": "Hospital",
+        "italian": "Ospedale.",
+        "id": 6
+      },
+      {
+        "turkmen": "Sag/çep tarapdan gitmelimi?",
+        "english": "Should I go on the right/left?",
+        "italian": "Dovrebbe andare a destra/a sinistra?",
+        "id": 7
+      },
+      {
+        "turkmen": "Şähere syýahata nireden başlap bolar?",
+        "english": "Where shoul I visit the city from?",
+        "italian": "Da dove cominciare la visita alla città?",
+        "id": 8
+      },
+      {
+        "turkmen": "Mana ... görmek zerur.",
+        "english": "Bisognarebbe vedere …",
+        "italian": "I need to see…",
+        "id": 9
+      },
+      {
+        "turkmen": "Ýadygärlikleri.",
+        "english": "Monuments.",
+        "italian": "I monumenti.",
+        "id": 10
+      },
+      {
+        "turkmen": "Surat sergilerini.",
+        "english": "Galery.",
+        "italian": "Galleria.",
+        "id": 11
+      },
+      {
+        "turkmen": "Seýilgähleri.",
+        "english": "Parks.",
+        "italian": "I parchi.",
+        "id": 12
+      },
+      {
+        "turkmen": "Bu köçe nähili atlandyrylýar?",
+        "english": "How is called this street?",
+        "italian": "Come si chiama questa strada?",
+        "id": 13
+      },
+      {
+        "turkmen": "Men ... satyn almak isleýärin.",
+        "english": "I want to buy …",
+        "italian": "Vorrei comprare…",
+        "id": 14
+      },
+      {
+        "turkmen": "Kitap.",
+        "english": "A book.",
+        "italian": "Il libro.",
+        "id": 15
+      },
+      {
+        "turkmen": "Surat.",
+        "english": "Picture.",
+        "italian": "Pittura.",
+        "id": 16
+      },
+      {
+        "turkmen": "Haýsy tarapdan gitmeli?",
+        "english": "Which direction should I go?",
+        "italian": "In quale direzione devo andare?",
+        "id": 17
+      },
+      {
+        "turkmen": "Şu tarapmy?",
+        "english": "Is this direction?",
+        "italian": "Questa direzione?",
+        "id": 18
+      },
+      {
+        "turkmen": "Men köçäni bilmeýärin/bilýärin.",
+        "english": "I don’t know/know street.",
+        "italian": "Non conosco/conosco la strada.",
+        "id": 19
+      },
+      {
+        "turkmen": "Men ýoly ýitirdim.",
+        "english": "I have lost the street.",
+        "italian": "Ho perso la strada.",
+        "id": 20
+      },
+      {
+        "turkmen": "Maňa ... salgy berip bilermisiňiz?",
+        "english": "Could younguide me …?",
+        "italian": "Puoi guidarmi …?",
+        "id": 21
+      },
+      {
+        "turkmen": "Ýakynmy/daşmy?",
+        "english": "Is it near or far?",
+        "italian": "È vicino/lontano?",
+        "id": 22
+      },
+      {
+        "turkmen": "Pyýada gitseň uzakmy?",
+        "english": "is it far for going on foot?",
+        "italian": "È lontano a piedi?",
+        "id": 23
+      },
+      {
+        "turkmen": "Myhmanhana nähili barmalydygyny aýdyp bilermisiňiz?",
+        "english": "Could you say me how I should go to the hotel?",
+        "italian": "Puoi dirmi come andare all'hotel?",
+        "id": 24
+      },
+      {
+        "turkmen": "Gözleýärin.",
+        "english": "I am looking for…",
+        "italian": "Cerco…",
+        "id": 25
+      },
+      {
+        "turkmen": "Bu esasy köçemi?",
+        "english": "Is it a special street?",
+        "italian": "È la strada speciale?",
+        "id": 26
+      },
+      {
+        "turkmen": "Bu şäher maňa örän ýarady.",
+        "english": "I liked this city.",
+        "italian": "Mi è piaciuta questa città.",
+        "id": 27
+      }
+    ]
+  },
+  {
+    "category": {
+      "turkmen": "AWTOULAGDA",
+      "english": "IN THE CAR",
+      "italian": "IN AUTOMOBILE",
+      "id": 15
+    },
+    "items": [
+      {
+        "turkmen": "Bu köçe ... barýarmy?",
+        "english": "Is this street for …?",
+        "italian": "Questa è la strada per … ?",
+        "id": 0
+      },
+      {
+        "turkmen": "...barmak üçin näçe wagt gerek?",
+        "english": "How long does it take to get to the …?",
+        "italian": "Quanto ci vuole per arrivare a …?",
+        "id": 1
+      },
+      {
+        "turkmen": "Maňa ...barmak üçin salgy beriň, haýyş edýän.",
+        "english": "Please, guide me to get to the …?",
+        "italian": "Mi indichi, per favore, la direzione per …?",
+        "id": 2
+      },
+      {
+        "turkmen": "Maňa ...nirede ýerleşýändigini salgy berip bilermisiňiz?",
+        "english": "Coul you say me where … is?",
+        "italian": "Puoi indicarmi dove si trova …?",
+        "id": 3
+      },
+      {
+        "turkmen": "Nirede?",
+        "english": "Where?",
+        "italian": "Dove?",
+        "id": 4
+      },
+      {
+        "turkmen": "Ýanýoda.",
+        "english": "Pavement.",
+        "italian": "Marciapiede.",
+        "id": 5
+      },
+      {
+        "turkmen": "Meni ...äkidip bilersiňizmi?",
+        "english": "Could you take me to ...?",
+        "italian": "Mi porti a …?",
+        "id": 6
+      },
+      {
+        "turkmen": "Myhmanhana.",
+        "english": "Hotel.",
+        "italian": "All'hotel.",
+        "id": 7
+      },
+      {
+        "turkmen": "Wokzala.",
+        "english": "The station.",
+        "italian": "Alla stazione.",
+        "id": 8
+      },
+      {
+        "turkmen": "Aereporta.",
+        "english": "To the airport.",
+        "italian": "All'aereporto.",
+        "id": 9
+      },
+      {
+        "turkmen": "Men howlukýan.",
+        "english": "I am in a hurry.",
+        "italian": "Ho fretta.",
+        "id": 10
+      },
+      {
+        "turkmen": "Şu ýerde duraýyň.",
+        "english": "Stop here, please.",
+        "italian": "Si fermi qui, per favore.",
+        "id": 11
+      },
+      {
+        "turkmen": "Maňa garaşyň, derrew gelerin.",
+        "english": "Wait for me, I will comeHw right back.",
+        "italian": "Mi aspetti, torno subito.",
+        "id": 12
+      },
+      {
+        "turkmen": "Size näçe tölemeli men?",
+        "english": "How much shoul I pay you?",
+        "italian": "Quanto costa devo pagarLe?",
+        "id": 13
+      }
+    ]
+  },
+  {
+    "category": {
+      "turkmen": "SPORT",
+      "english": "SPORT",
+      "italian": "SPORT",
+      "id": 16
+    },
+    "items": [
+      {
+        "turkmen": "Sen sport bilen meşgullanýarsyňmy?",
+        "english": "Do you do sport?",
+        "italian": "Lei fa dello sport?",
+        "id": 0
+      },
+      {
+        "turkmen": "Men sport bilen meşgullanýaryn/meşgullanmaýaryn.",
+        "english": "I do/don't do sport.",
+        "italian": "Io faccio/non faccio lo sport.",
+        "id": 1
+      },
+      {
+        "turkmen": "Haýsy sport bilen meşgullanýarsyň?",
+        "english": "Which sport do you do?",
+        "italian": "Quale sport fai?",
+        "id": 2
+      },
+      {
+        "turkmen": "Men ... bilen meşgullanýaryn.",
+        "english": "I do …",
+        "italian": "Io faccio …",
+        "id": 3
+      },
+      {
+        "turkmen": "Agyr atletika.",
+        "english": "Weightlifting.",
+        "italian": "L'atletica leggera.",
+        "id": 4
+      },
+      {
+        "turkmen": "Gimnastika.",
+        "english": "Gimnastics.",
+        "italian": "La ginnastica.",
+        "id": 5
+      },
+      {
+        "turkmen": "Boks.",
+        "english": "Boxing.",
+        "italian": "Il pugilato",
+        "id": 6
+      },
+      {
+        "turkmen": "Suwda ýüzmek.",
+        "english": "Swimming.",
+        "italian": "Il nuoto.",
+        "id": 7
+      },
+      {
+        "turkmen": "Men ... oýnaýaryn.",
+        "english": "I play…",
+        "italian": "Io gioco …",
+        "id": 8
+      },
+      {
+        "turkmen": "Futbol.",
+        "english": "Football.",
+        "italian": "A calcio.",
+        "id": 9
+      },
+      {
+        "turkmen": "Woleýbol.",
+        "english": "Volleyball.",
+        "italian": "A pallavolo.",
+        "id": 10
+      },
+      {
+        "turkmen": "Basketbol.",
+        "english": "Basketball.",
+        "italian": "a pallacanestro.",
+        "id": 11
+      },
+      {
+        "turkmen": "Tennis.",
+        "english": "Tennis.",
+        "italian": "A tennis.",
+        "id": 12
+      },
+      {
+        "turkmen": "Küşt.",
+        "english": "Chess.",
+        "italian": "A scacchi.",
+        "id": 13
+      },
+      {
+        "turkmen": "Näçe ýaşyňda sport bilen meşgullanyp başladyň?",
+        "english": "At what age did you start doing sport?",
+        "italian": "Da quanti anni Lei fa dello sport?",
+        "id": 14
+      },
+      {
+        "turkmen": "...ýaşymdan bäri meşgullanýaryn.",
+        "english": "I do sport since … years.",
+        "italian": "Faccio lo sport da … anni.",
+        "id": 15
+      },
+      {
+        "turkmen": "Haýsy sporty has halaýarsyň?",
+        "english": "Which sport do you prefer?",
+        "italian": "Quali sport ti piace di più?",
+        "id": 16
+      },
+      {
+        "turkmen": "...sporty halaýaryn.",
+        "english": "I prefer …",
+        "italian": "Mi piace …",
+        "id": 17
+      },
+      {
+        "turkmen": "Ýaryş näçede başlaýar?",
+        "english": "When does contest begin?",
+        "italian": "Quando comicia la gara?",
+        "id": 18
+      }
+    ]
+  }
+]
