@@ -78,7 +78,11 @@ class _HomeViewState extends State<HomeView> {
         title: const Text(AppStrings.appName),
         actions: [
           IconButton(
-              onPressed: () {}, icon: const Icon(Icons.language_rounded)),
+              onPressed: () {
+                context.openFavorites();
+              },
+              icon: const Icon(Icons.favorite_outline)),
+          IconButton(onPressed: () {}, icon: const Icon(Icons.info_outline)),
         ],
       ),
       body: Visibility(
@@ -102,7 +106,7 @@ class _HomeViewState extends State<HomeView> {
                 final item = categories[index];
 
                 return CategoryCard(
-                  title: item.category.english,
+                  title: item.category.turkmen,
                   icon: categoryIcons[index],
                   onTap: () {
                     context.openConversation(item);

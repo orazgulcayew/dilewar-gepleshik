@@ -1,7 +1,13 @@
 import 'package:dilewar/models/translation.dart';
+import 'package:hive/hive.dart';
 
+part 'category.g.dart';
+
+@HiveType(typeId: 0)
 class CategoryItem {
+  @HiveField(0)
   final Translatioin category;
+  @HiveField(1)
   final List<Translatioin> items;
 
   CategoryItem({required this.category, required this.items});

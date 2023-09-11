@@ -1,7 +1,15 @@
+import 'package:hive/hive.dart';
+part 'translation.g.dart';
+
+@HiveType(typeId: 1)
 class Translatioin {
+  @HiveField(0)
   final String turkmen;
+  @HiveField(1)
   final String english;
+  @HiveField(2)
   final String italian;
+  @HiveField(3)
   final int id;
 
   Translatioin({

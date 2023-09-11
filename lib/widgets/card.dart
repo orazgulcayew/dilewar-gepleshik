@@ -30,7 +30,6 @@ class CategoryCard extends StatelessWidget {
               Icon(icon, size: 32),
               Text(
                 title.capitalizeFirstLetter(),
-                maxLines: 1,
                 textAlign: TextAlign.center,
               ),
             ],

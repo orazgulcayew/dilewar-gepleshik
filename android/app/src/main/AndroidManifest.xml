@@ -1,6 +1,7 @@
-<manifest xmlns:android="http://schemas.android.com/apk/res/android">
-    <application
-        android:label="dilewar"
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.dilewar_gepleshik">
+   <application
+        android:label="dilewar_gepleshik"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity
