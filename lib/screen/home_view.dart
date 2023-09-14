@@ -7,6 +7,8 @@ import 'package:dilewar/config/app_Strings.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 
+import '../widgets/info_bottom_sheet.dart';
+
 class HomeView extends StatefulWidget {
   const HomeView({super.key});
 
@@ -82,7 +84,15 @@ class _HomeViewState extends State<HomeView> {
                 context.openFavorites();
               },
               icon: const Icon(Icons.favorite_outline)),
-          IconButton(onPressed: () {}, icon: const Icon(Icons.info_outline)),
+          IconButton(
+              onPressed: () {
+                showModalBottomSheet(
+                  context: context,
+                  builder: (context) =>
+                      const SizedBox(height: 280, child: InfoBottomSheet()),
+                );
+              },
+              icon: const Icon(Icons.info_outline)),
         ],
       ),
       body: Visibility(
