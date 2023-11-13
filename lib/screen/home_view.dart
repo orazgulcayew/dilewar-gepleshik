@@ -38,6 +38,7 @@ class _HomeViewState extends State<HomeView> {
     Icons.location_city_outlined, // IN THE CITY
     Icons.directions_car_outlined, // IN THE CAR
     Icons.sports_soccer_outlined, // SPORT
+    Icons.agriculture, // Oba hojalyk
   ];
 
   List<Color?> cardBackgroundColors = [
@@ -58,6 +59,7 @@ class _HomeViewState extends State<HomeView> {
     Colors.deepPurple[100],
     Colors.yellow[100],
     Colors.green[100],
+    Colors.lime[100],
   ];
 
   @override

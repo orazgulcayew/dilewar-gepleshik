@@ -24,7 +24,7 @@ class Translatioin {
       turkmen: json['turkmen'],
       english: json['english'],
       italian: json['italian'],
-      id: json['id'],
+      id: json['id'] is String ? int.tryParse(json['id']) : json['id'],
     );
   }
 }

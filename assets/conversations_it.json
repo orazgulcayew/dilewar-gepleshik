@@ -2556,5 +2556,379 @@
         "id": 18
       }
     ]
-  }
+  },
+  { "category": {
+    "turkmen": "OBA HOJALYKDA",
+    "english": "IN AGRICULTURE",
+    "italian": "IN AGRICOLTURA",
+    "id": 17
+  },
+  "items":[
+    {
+        "turkmen": "Men daýhan.",
+        "english": "I am a peasant.",
+        "italian": "Io sono un contadino.",
+        "id": "1"
+    },
+    {
+        "turkmen": "Men fermada işleýärin.",
+        "english": "I work in a farm.",
+        "italian": "Io lavoro in una fattoria.",
+        "id": "2"
+    },
+    {
+        "turkmen": "Men ... ösdürip ýetişdirýärin.",
+        "english": "I grow ...",
+        "italian": "Io cresco ...",
+        "id": "3"
+    },
+    {
+        "turkmen": "bugdaý",
+        "english": "wheat",
+        "italian": "grano",
+        "id": "4"
+    },
+    {
+        "turkmen": "arpa",
+        "english": "barley",
+        "italian": "orzo",
+        "id": "5"
+    },
+    {
+        "turkmen": "mekgejöwen",
+        "english": "corn, maize",
+        "italian": "mais",
+        "id": "6"
+    },
+    {
+        "turkmen": "pagta",
+        "english": "cotton",
+        "italian": "cotone",
+        "id": "7"
+    },
+    {
+        "turkmen": "tüwi",
+        "english": "rice",
+        "italian": "riso",
+        "id": "8"
+    },
+    {
+        "turkmen": "Men ekin meýdanynda işleýärin.",
+        "english": "I work in the field.",
+        "italian": "Io lavoro sul campo.",
+        "id": "9"
+    },
+    {
+        "turkmen": "Men miweleri parnikde ýetişdirýärin.",
+        "english": "I grow fruits in the greenhouse.",
+        "italian": "Io cresco le frutte in serra.",
+        "id": "10"
+    },
+    {
+        "turkmen": "Bu ýerde men ekin üçin garantga dikdim.",
+        "english": "Here I made the scarecrow for crops.",
+        "italian": "Qui ho fatto lo spaventapasseri per i raccolti.",
+        "id": "11"
+    },
+    {
+        "turkmen": "Men otlary orak bilen orýaryn.",
+        "english": "I mow grasses with scythe.",
+        "italian": "Io falcio l'erba con la falce.",
+        "id": "12"
+    },
+    {
+        "turkmen": "Men otlary desseleýärin.",
+        "english": "I arrange the grasses.",
+        "italian": "Io ordino le erbe.",
+        "id": "13"
+    },
+    {
+        "turkmen": "Men otlary çarşak bilen ýygnaýaryn.",
+        "english": "I pick up grasses with pitchfork.",
+        "italian": "Io raccolgo l'erba con il forcone.",
+        "id": "14"
+    },
+    {
+        "turkmen": "Men ekiniň daşyna haýat çekýärin.",
+        "english": "I make a fence around the farm.",
+        "italian": "Io faccio una recinzione attorno alla fattoria.",
+        "id": "15"
+    },
+    {
+        "turkmen": "Men ekinde işlänimde ellik geýýärin.",
+        "english": "I wear gloves when I work in the fields.",
+        "italian": "Io indosso i guanti quando lavoro nei campi.",
+        "id": "16"
+    },
+    {
+        "turkmen": "Men garry agaçlary palta bilen çapýaryn.",
+        "english": "I cut old trees with ax.",
+        "italian": "Ho tagliato vecchi alberi con l'ascia.",
+        "id": "17"
+    },
+    {
+        "turkmen": "Maňa ekinde kömek et.",
+        "english": "Help me in the field.",
+        "italian": "Aiutami sul campo.",
+        "id": "18"
+    },
+    {
+        "turkmen": "Meniň miwelerim bişdi.",
+        "english": "My fruits were ripe.",
+        "italian": "Le mie frutte sono mature.",
+        "id": "19"
+    },
+    {
+        "turkmen": "Meniň ekinim bol hasylly.",
+        "english": "My crops is so abundant.",
+        "italian": "Il mio raccolto è molto abbondante.",
+        "id": "20"
+    },
+    {
+        "turkmen": "Meniň ekinimde ... bar.",
+        "english": "My crops has...",
+        "italian": "Il mio raccolto ha...",
+        "id": "21"
+    },
+    {
+        "turkmen": "Alma agajy",
+        "english": "Apple tree",
+        "italian": "Albero di mele",
+        "id": "22"
+    },
+    {
+        "turkmen": "Erik agajy",
+        "english": "Apricot tree",
+        "italian": "Albero di albicocche",
+        "id": "23"
+    },
+    {
+        "turkmen": "Nar agajy",
+        "english": "Pomegranate tree",
+        "italian": "Albero di melograno",
+        "id": "24"
+    },
+    {
+        "turkmen": "Ülje",
+        "english": "Cherry",
+        "italian": "Ciliegia",
+        "id": "25"
+    },
+    {
+        "turkmen": "Garaly",
+        "english": "Plum tree",
+        "italian": "Albero di prugne",
+        "id": "26"
+    },
+    {
+        "turkmen": "Şetdaly",
+        "english": "Peach",
+        "italian": "Pesca",
+        "id": "27"
+    },
+    {
+        "turkmen": "Ýeralma",
+        "english": "Potato",
+        "italian": "Patata",
+        "id": "28"
+    },
+    {
+        "turkmen": "Gawun",
+        "english": "Melon",
+        "italian": "Melone",
+        "id": "29"
+    },
+    {
+        "turkmen": "Garpyz",
+        "english": "Watermelon",
+        "italian": "Anguria",
+        "id": "30"
+    },
+    {
+        "turkmen": "Sogan",
+        "english": "Onion",
+        "italian": "Cipolla",
+        "id": "31"
+    },
+    {
+        "turkmen": "Ýertudana",
+        "english": "Strawberry",
+        "italian": "Fragola",
+        "id": "32"
+    },
+    {
+        "turkmen": "Pomidor",
+        "english": "Tomato",
+        "italian": "Pomodoro",
+        "id": "33"
+    },
+    {
+        "turkmen": "Hyýar",
+        "english": "Cucumber",
+        "italian": "Cetriolo",
+        "id": "34"
+    },
+    {
+        "turkmen": "Injir",
+        "english": "Fig",
+        "italian": "Fico",
+        "id": "35"
+    },
+    {
+        "turkmen": "Beýi",
+        "english": "Quince",
+        "italian": "Mela cotogna",
+        "id": "36"
+    },
+    {
+        "turkmen": "Üzüm",
+        "english": "Grape",
+        "italian": "Uva",
+        "id": "37"
+    },
+    {
+        "turkmen": "Badamjan",
+        "english": "Eggplant",
+        "italian": "Melanzana",
+        "id": "38"
+    },
+    {
+        "turkmen": "Armyt",
+        "english": "Pear",
+        "italian": "Pera",
+        "id": "39"
+    },
+    {
+        "turkmen": "Limon",
+        "english": "Lemon",
+        "italian": "Limone",
+        "id": "40"
+    },
+    {
+        "turkmen": "Käşir ",
+        "english": "Carrot",
+        "italian": "Carota",
+        "id": "41"
+    },
+    {
+        "turkmen": "Kelem",
+        "english": "Cabbage",
+        "italian": "Cavolo",
+        "id": "42"
+    },
+    {
+        "turkmen": "Kädi",
+        "english": "Pumpkin",
+        "italian": "Zucca",
+        "id": "43"
+    },
+    {
+        "turkmen": "Rediska",
+        "english": "Radish",
+        "italian": "Ravanello",
+        "id": "44"
+    },
+    {
+        "turkmen": "Sarymsak",
+        "english": "Garlic",
+        "italian": "Aglio",
+        "id": "45"
+    },
+    {
+        "turkmen": "Noýba",
+        "english": "Bean",
+        "italian": "Fagiolo",
+        "id": "46"
+    },
+    {
+        "turkmen": "Ysmanak",
+        "english": "Spinach",
+        "italian": "Spinaci",
+        "id": "47"
+    },
+    {
+        "turkmen": "Meniň ekin meýdanym 50 gektar.",
+        "english": "My fields  is 50 hectares.",
+        "italian": "I miei campi sono 50 ettari.",
+        "id": "48"
+    },
+    {
+        "turkmen": "Men traktor bilen ýeri sürýärin.",
+        "english": "I cultivate the land with a tractor.",
+        "italian": "Coltivo la terra con il trattore.",
+        "id": "49"
+    },
+    {
+        "turkmen": "Men pil bilen ekin meýdany agdarýaryn.",
+        "english": "I dig the field with a shovel.",
+        "italian": "Scavo il campo con una pala.",
+        "id": "50"
+    },
+    {
+        "turkmen": "Men dyrmyk bilen ekin meýdany tekizleýärin.",
+        "english": "I cultivate the field with a rake.",
+        "italian": "Coltivo il campo con il rastrello.",
+        "id": "51"
+    },
+    {
+        "turkmen": "Men ekin meýdany suwa ýakýaryn.",
+        "english": "I water the field.",
+        "italian": "Innaffio il campo.",
+        "id": "52"
+    },
+    {
+        "turkmen": "Men fermam bar.",
+        "english": "I have a farm.",
+        "italian": "Ho una fattoria.",
+        "id": "53"
+    },
+    {
+        "turkmen": "Men fermada … saklaýaryn.",
+        "english": "I keep ... on the farm.",
+        "italian": "Tengo... nella fattoria.",
+        "id": "54"
+    },
+    {
+        "turkmen": "Sygyr",
+        "english": "A cow",
+        "italian": "Una mucca",
+        "id": "55"
+    },
+    {
+        "turkmen": "Öküz ",
+        "english": "Ox",
+        "italian": "Bue",
+        "id": "56"
+    },
+    {
+        "turkmen": "Göle",
+        "english": "Calf",
+        "italian": "Vitello",
+        "id": "57"
+    },
+    {
+        "turkmen": "At",
+        "english": "Horse",
+        "italian": "Cavallo",
+        "id": "58"
+    },
+    {
+        "turkmen": "Towuk",
+        "english": "Hen",
+        "italian": "Gallina",
+        "id": "59"
+    },
+    {
+        "turkmen": "Geçi",
+        "english": "Goat",
+        "italian": "Capra",
+        "id": "60"
+    },
+    {
+        "turkmen": "Doňuz",
+        "english": "Pig",
+        "italian": "Maiale",
+        "id": "61"
+    }
+]}
 ]
